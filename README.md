@@ -1,0 +1,1 @@
+Practical use case of java where java programming is implemented to solve and tackle real life basic problems 
