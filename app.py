@@ -1,5 +1,5 @@
-def add(x,y):
-    return x+y
+def add(x,y,w):
+    return x+y+w
 
 def sub(x,y,p):
     return x-y-p
